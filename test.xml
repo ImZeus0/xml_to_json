@@ -1,0 +1,14 @@
+<root>
+    <to>user id</to>
+    <time>1626941727</time>
+    <params>
+        <click>click1</click>
+        <click>click2</click>
+        <click>click3</click>
+        <additional>
+            <subgroup>group1val2</subgroup>
+            <subgroup>group1val3</subgroup>
+            <subgroup>group1val4</subgroup>
+        </additional>
+    </params>
+</root>
