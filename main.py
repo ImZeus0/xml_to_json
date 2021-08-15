@@ -70,15 +70,6 @@ def encode_list(data):
     return l, start_tag, data
 
 
-def is_new(key, values):
-    for l_key in values.keys():
-        if l_key == key:
-            return False
-        else:
-            pass
-    return True
-
-
 def delete_space(data):
     res = ''
     for line in data:
